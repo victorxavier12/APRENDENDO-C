@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+
 int main()
 {
     /* code */
@@ -23,6 +25,9 @@ int main()
 
 %f == invocação de uma variavel  de valor float  (real)**
     essa variavel invoca 6 digitos decimais, %.1f invoca apenas 1 digito decima
-*/
 
+%c == invocae um unico caracter 
+
+%s == invoca um astring (uma serie de caracteries)
+*/
 
